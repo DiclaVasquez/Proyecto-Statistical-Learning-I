@@ -14,4 +14,7 @@ data
 
 ![image](https://user-images.githubusercontent.com/99622555/173288636-f92e5073-7cfb-44d4-942e-d4496bb20af9.png)
 
+df_project_1 = pd.DataFrame(data)
+df_project_1 
+
 
